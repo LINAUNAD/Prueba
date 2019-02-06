@@ -1,2 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html lang="es" class"no-js">
+<head>
+
+<meta charset="UTF-8">
+<meta content="Lina" name"author"/>
+<meta content "Página de prueba" name="descripción"/>
+</head>
